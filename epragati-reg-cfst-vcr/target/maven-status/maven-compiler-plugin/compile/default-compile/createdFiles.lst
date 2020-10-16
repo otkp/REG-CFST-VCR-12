@@ -1,0 +1,14 @@
+org\tempuri\GetLicRegVCRDetailsResponse.class
+org\tempuri\GetLicRegVCRDetails.class
+org\epragati\serviecImpl\CfstVcrServiceImpl.class
+org\tempuri\GetTaxPaidVCRDetails.class
+org\tempuri\InsertVCRFineDtls.class
+org\tempuri\LicRegVCRDetailsSoap.class
+org\epragati\service\CfstVcrService.class
+org\tempuri\GetTaxPaidVCRDetailsResponse.class
+org\tempuri\package-info.class
+org\tempuri\ObjectFactory.class
+org\epragati\controller\CfstVcrController.class
+org\tempuri\LicRegVCRDetails.class
+org\tempuri\InsertVCRFineDtlsResponse.class
+org\epragati\EpragatiRegCfstVcrApplication.class
